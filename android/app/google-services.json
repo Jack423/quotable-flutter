@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "521714104273",
+    "firebase_url": "https://quotable-c70b9.firebaseio.com",
+    "project_id": "quotable-c70b9",
+    "storage_bucket": "quotable-c70b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521714104273:android:5133987d138acb0e",
+        "android_client_info": {
+          "package_name": "com.apexsoftware.quotable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521714104273-vvfb15658d1pdp1jim1kues5v5ngeajf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apexsoftware.quotable",
+            "certificate_hash": "eda5e73f705cd52f91a9262921ac49aba83f6bcd"
+          }
+        },
+        {
+          "client_id": "521714104273-vp18kkv1a7ae7nf4eqr0kpid95257dbm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apexsoftware.quotable",
+            "certificate_hash": "4d696c011f3672bf54a7cdc85a57f844fbfb8cd0"
+          }
+        },
+        {
+          "client_id": "521714104273-geu46e6reednrhgeeihoc9un54n24ru2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apexsoftware.quotable",
+            "certificate_hash": "ccf7e4bdf2f0968aca94b4d4739f2c107379abeb"
+          }
+        },
+        {
+          "client_id": "521714104273-1j5n5890m3h7rsdlnls6rh110fbghikt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apexsoftware.quotable",
+            "certificate_hash": "65b3b4ad74eff428278dc45c80c23503ef6cc862"
+          }
+        },
+        {
+          "client_id": "521714104273-cndalm6rplbttjch09cc3j8m71p7m0rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdRyhJh9mTEpaD0lCORuXTkIpmTZDTk9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521714104273-v413cs78hks1pr2dh6461i5a8bi33dhl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "521714104273-9po8sj7d6bpbtbmvfjilkglnn5s7qq2s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.apexsoftware.quotable"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521714104273:android:7eb5bacff2cdd7ea2c52f0",
+        "android_client_info": {
+          "package_name": "com.apexsoftware.quotable_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521714104273-cndalm6rplbttjch09cc3j8m71p7m0rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdRyhJh9mTEpaD0lCORuXTkIpmTZDTk9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521714104273-v413cs78hks1pr2dh6461i5a8bi33dhl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "521714104273-9po8sj7d6bpbtbmvfjilkglnn5s7qq2s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.apexsoftware.quotable"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
